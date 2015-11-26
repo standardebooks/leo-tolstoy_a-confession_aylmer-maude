@@ -4,10 +4,3 @@
 abbr.name{
 	white-space: nowrap;
 }
-
-/* helpful during drafting */
-[epub|type~="z3998:roman"],
-[lang]:not(html),
-abbr{
-	background: #C0C0C0;
-}
