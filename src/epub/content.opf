@@ -44,27 +44,27 @@
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Лев Никола́евич Толсто́й</meta>
 		<meta property="se:name.person.full-name" refines="#author">Count Lev Nikolayevich Tolstoy</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Leo_Tolstoy</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79068416.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79068416</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aft</meta>
 		<dc:contributor id="translator-1">Aylmer Maude</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Maude, Aylmer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n80001480.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n80001480</meta>
 		<meta property="display-seq" refines="#translator-1">2</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-2">Louise Maude</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Maude, Louise</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n81139201.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n81139201</meta>
 		<meta property="display-seq" refines="#translator-2">1</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="alternate-script" refines="#artist">Илья́ Ефи́мович Ре́пин</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">http://en.wikipedia.org/wiki/Ilya_Repin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79075231.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79075231</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
