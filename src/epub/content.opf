@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/a-confession/louise-maude</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude_louise-maude</dc:identifier>
 		<dc:date>2015-11-26T20:18:10Z</dc:date>
 		<meta property="dcterms:modified">2016-06-21T02:23:57Z</meta>
 		<meta property="se:revision-number">11</meta>
@@ -34,12 +34,12 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>https://en.wikisource.org/wiki/A_Confession</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/A_Confession_(Maudes_translation)</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008973972</dc:source>
 		<meta property="se:word-count">26943</meta>
 		<meta property="se:reading-ease.flesch">63.53</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Confession</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_a-confession_aylmer-maude</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_a-confession_aylmer-maude_louise-maude</meta>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
 		<meta property="file-as" refines="#author">Tolstoy, Leo</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Лев Никола́евич Толсто́й</meta>
