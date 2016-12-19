@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude_louise-maude</dc:identifier>
 		<dc:date>2015-11-26T20:18:10Z</dc:date>
-		<meta property="dcterms:modified">2016-06-21T02:23:57Z</meta>
-		<meta property="se:revision-number">11</meta>
+		<meta property="dcterms:modified">2016-12-19T21:48:02Z</meta>
+		<meta property="se:revision-number">12</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -19,9 +19,9 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">A Confession</dc:title>
 		<meta property="file-as" refines="#title">Confession, A</meta>
-		<dc:subject id="subject-1">Tolstoy, Leo, graf, 1828-1910--Religion.</dc:subject>
-		<dc:subject id="subject-2">Faith.</dc:subject>
-		<dc:subject id="subject-3">Christianity.</dc:subject>
+		<dc:subject id="subject-1">Tolstoy, Leo, graf, 1828-1910--Religion</dc:subject>
+		<dc:subject id="subject-2">Faith</dc:subject>
+		<dc:subject id="subject-3">Christianity</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/92075770</meta>
 		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/92075770</meta>
 		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/92075770</meta>
