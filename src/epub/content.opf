@@ -64,7 +64,7 @@
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="alternate-script" refines="#artist">Илья́ Ефи́мович Ре́пин</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">http://en.wikipedia.org/wiki/Ilya_Repin</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ilya_Repin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79075231</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
