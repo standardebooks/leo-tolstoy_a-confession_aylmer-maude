@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude_louise-maude</dc:identifier>
 		<dc:date>2015-11-26T20:18:10Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T06:32:17Z</meta>
-		<meta property="se:revision-number">21</meta>
+		<meta property="dcterms:modified">2017-07-27T20:39:07Z</meta>
+		<meta property="se:revision-number">22</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,8 +29,8 @@
 		<dc:description id="description">A brief meditation on depression, philosophy, religion, and the meaning of life.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Leo Tolstoy wrote this short meditation on sadness and the meaning of life when he was middle aged.  He had already completed his masterworks, &lt;i&gt;Anna Karenina&lt;/i&gt; and &lt;i&gt;War and Peace&lt;/i&gt;, reared fourteen children, and gained fame and acclaim in Russia as a man of letters.  But despite having attained that success, he still found himself unhappy and always returning to the disturbing idea that all achievement is meaningless.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;A Confession&lt;/i&gt; is his attempt to put these thoughts in words as he teetered on the brink of suicide.  It forms the first in a four-volume series that included &lt;i&gt;A Criticism of Dogmatic Theology&lt;/i&gt;, &lt;i&gt;The Gospel in Brief&lt;/i&gt;, and &lt;i&gt;What I Believe&lt;/i&gt; (also known as &lt;i&gt;My Religion&lt;/i&gt; or &lt;i&gt;My Faith&lt;/i&gt;).&lt;/p&gt;
+			&lt;p&gt;Leo Tolstoy wrote this short meditation on sadness and the meaning of life when he was middle aged. He had already completed his masterworks, &lt;i&gt;Anna Karenina&lt;/i&gt; and &lt;i&gt;War and Peace&lt;/i&gt;, reared fourteen children, and gained fame and acclaim in Russia as a man of letters. But despite having attained that success, he still found himself unhappy and always returning to the disturbing idea that all achievement is meaningless.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Confession&lt;/i&gt; is his attempt to put these thoughts in words as he teetered on the brink of suicide. It forms the first in a four-volume series that included &lt;i&gt;A Criticism of Dogmatic Theology&lt;/i&gt;, &lt;i&gt;The Gospel in Brief&lt;/i&gt;, and &lt;i&gt;What I Believe&lt;/i&gt; (also known as &lt;i&gt;My Religion&lt;/i&gt; or &lt;i&gt;My Faith&lt;/i&gt;).&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
