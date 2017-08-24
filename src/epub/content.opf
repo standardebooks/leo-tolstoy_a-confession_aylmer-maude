@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude_louise-maude</dc:identifier>
 		<dc:date>2015-11-26T20:18:10Z</dc:date>
-		<meta property="dcterms:modified">2017-08-23T13:45:16Z</meta>
-		<meta property="se:revision-number">23</meta>
+		<meta property="dcterms:modified">2017-08-24T13:32:47Z</meta>
+		<meta property="se:revision-number">24</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,7 +36,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/A_Confession_(Maudes_translation)</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008973972</dc:source>
-		<meta property="se:word-count">25981</meta>
+		<meta property="se:word-count">25983</meta>
 		<meta property="se:reading-ease.flesch">63.32</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Confession</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_a-confession_aylmer-maude_louise-maude</meta>
