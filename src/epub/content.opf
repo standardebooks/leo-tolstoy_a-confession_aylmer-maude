@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude_louise-maude</dc:identifier>
 		<dc:date>2015-11-26T20:18:10Z</dc:date>
-		<meta property="dcterms:modified">2017-12-08T22:17:43Z</meta>
-		<meta property="se:revision-number">31</meta>
+		<meta property="dcterms:modified">2017-12-15T03:13:22Z</meta>
+		<meta property="se:revision-number">32</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -52,14 +52,14 @@
 		<meta property="file-as" refines="#translator-1">Maude, Aylmer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n80001480</meta>
-		<meta property="display-seq" refines="#translator-1">2</meta>
+		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-2">Louise Maude</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Maude, Louise</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n81139201</meta>
-		<meta property="display-seq" refines="#translator-2">1</meta>
+		<meta property="display-seq" refines="#translator-2">2</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
