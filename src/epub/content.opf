@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/A_Confession_(Maudes_translation)</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008973972</dc:source>
-		<meta property="se:word-count">25983</meta>
+		<meta property="se:word-count">25993</meta>
 		<meta property="se:reading-ease.flesch">63.32</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Confession</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_a-confession_aylmer-maude_louise-maude</meta>
