@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude_louise-maude</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude</dc:identifier>
 		<dc:date>2015-11-26T20:18:10Z</dc:date>
 		<meta property="dcterms:modified">2015-11-26T20:18:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -50,7 +50,7 @@
 		<meta property="se:word-count">25993</meta>
 		<meta property="se:reading-ease.flesch">63.32</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Confession</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_a-confession_aylmer-maude_louise-maude</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_a-confession_aylmer-maude</meta>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
 		<meta property="file-as" refines="#author">Tolstoy, Leo</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Лев Никола́евич Толсто́й</meta>
@@ -66,12 +66,6 @@
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
-		<dc:contributor id="translator-2">Louise Maude</dc:contributor>
-		<meta property="file-as" refines="#translator-2">Maude, Louise</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n81139201</meta>
-		<meta property="display-seq" refines="#translator-2">2</meta>
-		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="alternate-script" refines="#artist">Илья́ Ефи́мович Ре́пин</meta>
