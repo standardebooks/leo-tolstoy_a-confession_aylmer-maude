@@ -39,6 +39,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85025219</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">A brief meditation on depression, philosophy, religion, and the meaning of life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; wrote this short meditation on sadness and the meaning of life when he was middle aged. He had already completed his masterworks, &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett"&gt;&lt;i&gt;Anna Karenina&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude"&gt;&lt;i&gt;War and Peace&lt;/i&gt;&lt;/a&gt;, reared fourteen children, and gained fame and acclaim in Russia as a man of letters. But despite having attained that success, he still found himself unhappy and always returning to the disturbing idea that all achievement is meaningless.&lt;/p&gt;
