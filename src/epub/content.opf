@@ -61,7 +61,7 @@
 		<meta property="se:role" refines="#author" scheme="marc:relators">aft</meta>
 		<dc:contributor id="translator-1">Aylmer Maude</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Maude, Aylmer</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Aylmer_Maude</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n80001480</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
