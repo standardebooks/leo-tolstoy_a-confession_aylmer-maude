@@ -59,7 +59,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Leo_Tolstoy</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79068416</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aft</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">waw</meta>
 		<dc:contributor id="translator">Aylmer Maude</dc:contributor>
 		<meta property="file-as" refines="#translator">Maude, Aylmer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Aylmer_Maude</meta>
