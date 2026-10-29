@@ -57,7 +57,7 @@
 		<link href="https://github.com/standardebooks/leo-tolstoy_a-confession_aylmer-maude" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
 		<meta property="file-as" refines="#author">Tolstoy, Leo</meta>
-		<meta property="schema:alternateName" refines="#author">Count Lev Nikolayevich Tolstoy</meta>
+		<meta property="schema:alternateName" refines="#author">Lev Nikolayevich Tolstoy</meta>
 		<meta property="alternate-script" refines="#author">Лев Никола́евич Толсто́й</meta>
 		<link href="https://en.wikipedia.org/wiki/Leo_Tolstoy" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79068416.html" refines="#author" rel="schema:sameAs"/>
@@ -71,14 +71,14 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
-		<meta property="alternate-script" refines="#artist">Илья́ Ефи́мович Ре́пин</meta>
+		<meta property="schema:alternateName" refines="#artist">Ilya Yefimovich Repin</meta>
+		<meta property="alternate-script" refines="#artist">Илья Ефимович Репин</meta>
 		<link href="https://en.wikipedia.org/wiki/Ilya_Repin" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79075231.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
 		<link href="https://en.wikisource.org/" refines="#transcriber-1" rel="schema:url"/>
-		<link href="https://en.wikipedia.org/wiki/Wikisource" refines="#transcriber-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
